@@ -1,4 +1,3 @@
-
 <h1 align="center" style=  >
 WatchMe
 </h1>
@@ -44,6 +43,11 @@ $ cd ignite-template-componentizando-a-aplicacao
 # Instalar as dependências
 $ yarn install
 
-# Clonar o repositório
+# Iniciar o projeto
 $ yarn dev
+```
 
+
+---
+
+Desenvolvido por Lucas Nascimento 💪
